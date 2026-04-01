@@ -73,7 +73,7 @@ HTML pone el contenido y la estructura y CSS da el estilo,
 
 ---
 
-## 2. Inicio del documento
+### 2. Inicio del documento
 ```
 <!DOCTYPE html>
 <html lang="es">
