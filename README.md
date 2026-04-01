@@ -3,10 +3,9 @@
 
 ### About Me
 - Tengo 30 años, de Madrid, España.
-- Estoy inmersa en el mundo de la inteligencia artificial y el Big Data.
-- Actualmente estudiando un bootcamp de IA & Big Data.
+- Actualmente estoy estudiando un bootcamp de IA & Big Data.
 - Soy autodidacta y muy creativa que busca aprender y mejorar cada día.
-- Mi itención es conectar con cada persona que visite mis proyectos.
+- Mi intención es conectar con cada persona que visite mis proyectos.
 
 ### Technologies in this project
 
