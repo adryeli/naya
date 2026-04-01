@@ -102,9 +102,9 @@ Aquí le estás diciendo al navegador: “voy a empezar una página web en espa�
 ```
 🧠 Explicación:
 
-```<head> → contiene información de configuración, no contenido visible principal
-<meta charset="UTF-8"> → permite que se vean bien las tildes, la ñ y caracteres especiales
-<meta name="viewport" ...>``` → hace que la web se adapte mejor a móviles y pantallas pequeñas
+```<head>``` → contiene información de configuración, no contenido visible principal
+```<meta charset="UTF-8"```> → permite que se vean bien las tildes, la ñ y caracteres especiales
+```<meta name="viewport" ...>``` → hace que la web se adapte mejor a móviles y pantallas pequeñas
 ```<title>NAYA</title>``` → nombre que aparece en la pestaña del navegador
 ```<link rel="stylesheet" href="style.css">``` → conecta el HTML con el archivo CSS
 
@@ -116,7 +116,7 @@ El head es como la parte técnica y de preparación de la página.
 
 ```<body>```
 Explicación:
-```<body>``` contiene todo lo que el usuario va a ver en la web
+Contiene todo lo que el usuario va a ver en la web
 
 💡Idea fácil de recordar:
 
@@ -129,11 +129,10 @@ Todo lo visible de la página va dentro del body.
 🧠Explicación:
 
 ```<h4>``` → es un encabezado o título
-class="texto_plano" → esa clase sirve para aplicar estilos desde CSS
+```class="texto_plano"``` → esa clase "class" sirve para aplicar estilos desde CSS
 
 💡Idea fácil de recordar:
-
-Aquí estás mostrando una frase destacada en la página.
+Aquí estás mostrando una frase destacada en la página, para después aplicarle algún estilo.
 
 ## 6. Caja o contenedor de texto
 ```
