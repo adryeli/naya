@@ -37,11 +37,9 @@ Este es mi primer proyecto web donde estoy aprendiendo HTML y CSS.
 
 - HTML
 - CSS
-
-## 🚀 Cómo abrir el proyecto
-
-1. Descarga el proyecto
-2. Abre el archivo `index.html` en tu navegador
+- Visual Studio Code
+- Terminal Lynux
+- Git
 
 ## 📁 Estructura del proyecto
 
