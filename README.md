@@ -56,9 +56,11 @@ Elizabeth Sena
 
 # 🧱 Explicación paso a paso del HTML 
 
-## 1. Qué es HTML
+### 1. ¿Qué es HTML?
 
-HTML es el lenguaje que se usa para crear la estructura de una página web.
+HTML *(HyperText Markup Language)* es el lenguaje que define la **estructura** de una página web. Indica al navegador qué elementos mostrar: títulos, párrafos, imágenes, enlaces, etc.
+
+En definitiva, HTML es el lenguaje que se usa para crear la estructura de una página web.
 
 Con HTML podemos añadir:
 
@@ -75,35 +77,35 @@ HTML pone el contenido y la estructura y CSS da el estilo,
 ---
 
 ## 2. Inicio del documento
-
+```
 <!DOCTYPE html>
 <html lang="es">
-
+```
 🧠 Explicación:
 
-<!DOCTYPE html> → indica que el documento es una página HTML5
-<html> → es la etiqueta principal que contiene toda la web
-lang="es" → indica que el idioma de la página es español
+```<!DOCTYPE html>``` → indica que el documento es una página HTML5
+```<html>``` → es la etiqueta principal que contiene toda la web
+```lang="es" ```→ indica que el idioma de la página es español
 
 💡Idea fácil de recordar:
 
 Aquí le estás diciendo al navegador: “voy a empezar una página web en español”.
 
-## 3. Parte <head>: configuración de la página
-<head>
+### 3. Parte <head>: configuración de la página
+
+```<head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>NAYA</title>
   <link rel="stylesheet" href="style.css">
-</head>
-
+</head>```
 🧠 Explicación:
 
-<head> → contiene información de configuración, no contenido visible principal
+```<head> → contiene información de configuración, no contenido visible principal
 <meta charset="UTF-8"> → permite que se vean bien las tildes, la ñ y caracteres especiales
-<meta name="viewport" ...> → hace que la web se adapte mejor a móviles y pantallas pequeñas
-<title>NAYA</title> → nombre que aparece en la pestaña del navegador
-<link rel="stylesheet" href="style.css"> → conecta el HTML con el archivo CSS
+<meta name="viewport" ...>``` → hace que la web se adapte mejor a móviles y pantallas pequeñas
+```<title>NAYA</title>``` → nombre que aparece en la pestaña del navegador
+```<link rel="stylesheet" href="style.css">``` → conecta el HTML con el archivo CSS
 
 💡Idea fácil de recordar:
 
@@ -111,9 +113,9 @@ El head es como la parte técnica y de preparación de la página.
 
 ## 4. Parte <body>: contenido visible
 
-<body>
+```<body>```
 Explicación:
-<body> contiene todo lo que el usuario va a ver en la web
+```<body>``` contiene todo lo que el usuario va a ver en la web
 
 💡Idea fácil de recordar:
 
@@ -121,11 +123,11 @@ Todo lo visible de la página va dentro del body.
 
 ## 5. Título o frase principal
 
-<h4 class="texto_plano">Construyendo una identidad digital.</h4>
+```<h4 class="texto_plano">Construyendo una identidad digital.</h4>```
 
 🧠Explicación:
 
-<h4> → es un encabezado o título
+```<h4>``` → es un encabezado o título
 class="texto_plano" → esa clase sirve para aplicar estilos desde CSS
 
 💡Idea fácil de recordar:
@@ -133,10 +135,11 @@ class="texto_plano" → esa clase sirve para aplicar estilos desde CSS
 Aquí estás mostrando una frase destacada en la página.
 
 ## 6. Caja o contenedor de texto
-
+```
 <div class="card_textoplano">
+```
 Explicación:
-<div> → crea una caja o bloque para agrupar contenido
+```<div>``` → crea una caja o bloque para agrupar contenido
 class="card_textoplano" → esa caja tendrá estilos definidos en CSS
 
 💡Idea fácil de recordar:
