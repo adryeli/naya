@@ -302,7 +302,7 @@ body {
 
  Este bloque sirve para poner una imagen grande de fondo y hacer que se vea bien ocupando toda la página
 
-### 3. Color de texto
+### 19. Color de texto
 ```
 .texto_plano {
   color: aliceblue;
@@ -316,7 +316,7 @@ body {
 💡 Idea fácil de recordar:
 Este bloque sirve para que el texto se vea claro sobre un fondo oscuro.
 
-### 19. Tarjeta o caja con efecto visual
+### 20. Tarjeta o caja con efecto visual
 ```
 .card_textoplano {
   backdrop-filter: blur(10px);
@@ -331,7 +331,7 @@ Este bloque sirve para que el texto se vea claro sobre un fondo oscuro.
 💡 Idea fácil de recordar:
 Este bloque hace que la caja tenga un estilo más moderno, como un cristal desenfocado.
 
-### 20. Color del formulario 
+### 21. Color del formulario 
 ```
 .formulario {
   color: blueviolet;
@@ -344,7 +344,7 @@ Este bloque hace que la caja tenga un estilo más moderno, como un cristal desen
 💡 Idea fácil de recordar:
 Sirve para dar identidad visual al formulario y que combine con la estética de la web.
 
-### 21. Tamaño del icono de YouTube
+### 22. Tamaño del icono de YouTube
 ```
 .icono {
   width: 100px;
@@ -361,7 +361,7 @@ Sirve para dar identidad visual al formulario y que combine con la estética de 
 💡 Idea fácil de recordar:
 Sirve para controlar el tamaño y la alineación del icono.
 
-### 22. Tamaño del icono de TikTok
+### 23. Tamaño del icono de TikTok
 ```.icono2 {
   width: 100px;
   height: 60px;
