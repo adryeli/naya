@@ -3,10 +3,10 @@
 
 ### About Me
 - Tengo 30 años, de Madrid, España.
-- Estoy inmersa en el mundo de la inteligencia artificial y el big data.
+- Estoy inmersa en el mundo de la inteligencia artificial y el Big Data.
 - Actualmente estudiando un bootcamp de IA & Big Data.
 - Soy autodidacta y muy creativa que busca aprender y mejorar cada día.
-- Mi itención es conectar con cada persona que visite mis projectos.
+- Mi itención es conectar con cada persona que visite mis proyectos.
 
 ### Technologies in this project
 
@@ -98,7 +98,8 @@ Aquí le estás diciendo al navegador: “voy a empezar una página web en espa�
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>NAYA</title>
   <link rel="stylesheet" href="style.css">
-</head>```
+</head>
+```
 🧠 Explicación:
 
 ```<head> → contiene información de configuración, no contenido visible principal
