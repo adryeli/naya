@@ -1,0 +1,32 @@
+body{
+
+    background-image: url(./nayabackground.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.texto_plano{
+    color: aliceblue;
+}
+.card_textoplano{
+    backdrop-filter: blur(10px);
+     border-radius: 10px;
+}
+
+.formulario {
+    color: blueviolet;
+}
+
+.icono {
+  width: 100px;
+  height: 60px;
+  vertical-align: middle;
+  
+}
+
+.icono2 {
+  width: 100px;
+  height: 60px;
+  vertical-align: middle;
+  
+}
